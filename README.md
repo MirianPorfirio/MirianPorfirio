@@ -34,5 +34,5 @@ at the intersection of technology and design.
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=MirianPorfirio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## My Contribuitions
+## My Contributions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MirianPorfirio&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
