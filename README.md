@@ -1,14 +1,38 @@
-<h1 align="center">Hello, I'm Mirian Porfirio👩🏽‍💻</h1>
-<h3 align="center">A passionate student of front-end development from Brazil</h3>
+# Hello, I'm Mirian Porfirio👩🏽‍💻
+```
+📝 From a young age, I've always been captivated by the world of technology,
+with a particular fascination for the realm of Front-end development.
+The art of crafting user experiences through code has been a
+driving force in my journey. As I delved deeper into my passion,
+I seized the opportunity to take my first steps into the realms of
+UX Design and Mobile Flutter. These studies have opened up a new
+realm of possibilities, allowing me to merge my creative instincts
+with the technical skills needed to shape innovative and user-friendly
+mobile experiences. With each line of code,
+I am shaping my aspirations into reality, and
+I'm excited to continue this ever-evolving exploration
+at the intersection of technology and design.
+````
 
-- 🔭 I am a technology enthusiast and currently studying **Mobile Flutter and UX Designer**
+## Connect with me
+[![dio](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=0E76A8)](https://dio.me/users/mporfirio12)
 
-- 📝 I love studying technology and software, and **UI Design** is my favorite subject to study and learn to prototype apps.
-
-## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mirian-porfirio/)
 
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=Medium)](https://medium.com/@mirianporfirio)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## Markup Languages and Style
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+## Programming languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=Dart)
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=MirianPorfirio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## My Contribuitions
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MirianPorfirio&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
