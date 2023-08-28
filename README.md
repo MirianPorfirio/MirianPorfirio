@@ -3,7 +3,7 @@
 
 - 🔭 I am a technology enthusiast and currently studying **Mobile Flutter and UX Designer**
 
-- 📝 I love studying about technology and software, **UI Design** is my favorite subject to study and learn to prototype apps.
+- 📝 I love studying technology and software, and **UI Design** is my favorite subject to study and learn to prototype apps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
