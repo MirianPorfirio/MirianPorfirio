@@ -1,5 +1,5 @@
 # Hello, I'm Mirian Porfirio👩🏽‍💻
-```
+
 📝 From a young age, I've always been captivated by the world of technology,
 with a particular fascination for the realm of Front-end development.
 The art of crafting user experiences through code has been a
@@ -12,7 +12,6 @@ mobile experiences. With each line of code,
 I am shaping my aspirations into reality, and
 I'm excited to continue this ever-evolving exploration
 at the intersection of technology and design.
-````
 
 ## Connect with me
 [![dio](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=0E76A8)](https://dio.me/users/mporfirio12)
